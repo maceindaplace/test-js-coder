@@ -21,11 +21,13 @@ Consola
 CONECTAR JS con HTML
 
 <script src="/js/testing.js"></script>
+
 Nunca se pone en el head, se tiene que poner arriba del cierre </body>
 Al cerrar las lineas de codigo de JS se ponen punto y coma ;
 
 Para comentar en JS //
 Atajo para comentar Ctrl + / o en Mac Cmnd + /
+Para mover las lineas arriba o abajo presionando ALT y flecha arriba o abajo
 
 Las cadenas de texto se concatenar - concatenar
 
